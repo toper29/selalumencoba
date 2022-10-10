@@ -1,0 +1,6 @@
+[alias]
+
+	lg = log --graph --oneline --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cD) %C(bold blue)<%an>%Creset' --abbrev-commit
+
+[core]
+editor = nano
